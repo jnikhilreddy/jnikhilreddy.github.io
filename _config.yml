@@ -3,10 +3,10 @@
 # -----------------------------------------------------------------------------
 
 title: Nikhil Reddy # the website title (if blank, full name will be used instead)
-first_name: Thanh (Thomas)
+first_name: Nikhil
 middle_name:
-last_name: Le-Cong
-email: thanh.lecong@student.unimelb.edu.au
+last_name: Reddy
+email: n.jangamreddy@uqconnect.edu.au
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   My personal website.
 footer_text: >
@@ -69,14 +69,14 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: jnikhilreddy # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: ThanhLeCong2705
-linkedin_username: thanh-le-cong-8a1437150 # your LinkedIn user name
-scholar_userid: iaQgZHYAAAAJ # your Google Scholar ID
+twitter_username: nikhil_reddy_cs
+linkedin_username: nikhil-reddy-1632aa92 # your LinkedIn user name
+scholar_userid: 3xp0E04AAAAJ # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
-research_gate_profile: Le-Thanh-27 # your profile on ResearchGate
+research_gate_profile:  # your profile on ResearchGate
 blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
@@ -101,7 +101,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Thanh Le-Cong # blog_name will be displayed in your blog page
+blog_name: Nikhil Reddy # blog_name will be displayed in your blog page
 blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
 blog_description:
 permalink: /blog/:year/:title/
@@ -111,7 +111,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: thanhlecongg # put your disqus shortname
+disqus_shortname:  # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
@@ -218,8 +218,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: Le-Cong
-  first_name: [Thanh]
+  last_name: Nikhil
+  first_name: Reddy
 
   style: apa
   locale: en
