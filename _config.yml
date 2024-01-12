@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Thanh (Thomas) Le-Cong # the website title (if blank, full name will be used instead)
+title: Nikhil Reddy # the website title (if blank, full name will be used instead)
 first_name: Thanh (Thomas)
 middle_name:
 last_name: Le-Cong
@@ -67,7 +67,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: thanhlecongg # your GitHub user name
+github_username: jnikhilreddy # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: ThanhLeCong2705
 linkedin_username: thanh-le-cong-8a1437150 # your LinkedIn user name
