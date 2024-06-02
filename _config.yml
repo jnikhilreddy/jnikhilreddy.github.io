@@ -6,18 +6,18 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Abigale
 middle_name:
 last_name: Kim
-email: abigalekim0417@gmail.com
+email: jnikhilreddy@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Abigale Kim's personal website.
+  Nikhil Reddy's personal website.
 footer_text: 
 keywords: 
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon.ico
 
-url: https://abigalekim.github.io # the base hostname & protocol for your site
+url: https://jnikhilreddy.github.io # the base hostname & protocol for your site
 baseurl:
-last_updated: false # set to true if you want to display last updated in the footer
+last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
@@ -64,13 +64,13 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: abigalekim
+github_username: jnikhilreddy
 gitlab_username: # your GitLab user name
-twitter_username: abigale_kim
-mastodon_username: discuss.systems/@abigale_kim
-linkedin_username: abigalekim
+twitter_username: nikhil_reddy_cs
+mastodon_username: #df
+linkedin_username: nikhil-reddy-1632aa92
 telegram_username: # your Telegram user name
-scholar_userid: IRZm2QYAAAAJ
+scholar_userid: 3xp0E04AAAAJ
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
@@ -102,7 +102,7 @@ contact_note:
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
 
-google_analytics:  G-6WCJRK0YBB
+google_analytics:  #
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 
 google_site_verification:  # your google-site-verification ID (Google Search Console)
