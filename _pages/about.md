@@ -15,8 +15,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a Software Engineer at [TileDB](https://tiledb.com/), working on their [open-source data engine](https://github.com/TileDB-Inc/TileDB). Previously, I was a Fifth Year Research Master's student in the [Computer Science Department](https://csd.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), where I was advised by [Dr. Andy Pavlo](http://www.cs.cmu.edu/~pavlo/). My academic interests are database management systems and computer science education.
-
-I completed my B.Sc. at Carnegie Mellon's School of Computer Science, majoring in computer science with a concentration in computer systems.
-
-In my free time, I enjoy listening to [Taylor Swift](https://twitter.com/abigale_kim/status/1645590351166722050) and fiber crafting. Feel free to reach out jnikhilreddy[at]gmail[dot]com. I'm happy to chat and connect!
+I am Nikhil, a final year joint Ph.D. candidate in data science at the University of Queensland and IIT Delhi. I am excited to apply for the post-doctoral research fellow position at your esteemed Queensland University of Technology (QUT). My Ph.D. research focuses on improving Out-of-domain Generalization for dense prediction tasks such as urban-scene semantic segmentation, a subdomain in the field of Computer Vision. 

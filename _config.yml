@@ -252,8 +252,8 @@ display_tags: ['cmu', 'cs-education', 'databases'] # this tags will be dispalyed
 
 scholar:
 
-  last_name: [Kim]
-  first_name: [Abigale, A.]
+  last_name: [Reddy]
+  first_name: [Nikhil Reddy]
 
   style: apa
   locale: en
